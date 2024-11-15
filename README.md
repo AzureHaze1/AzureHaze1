@@ -15,12 +15,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<br/>
 👋让我们一起探索计算机技术的无限可能吧！
 
 <br/>
+<br/>
 
 ## Learing
-- 🌱 目前正在学习 ...
+🌱 目前正在学习 ...
 <br/>
 <div style="display: flex; flex-wrap: nowrap; overflow-x: auto;"> 
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/html.svg" alt="html" style="max-width: 100%;">
