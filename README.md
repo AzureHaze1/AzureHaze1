@@ -30,7 +30,7 @@
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/jetbrains_intellij.svg" alt="jetbrains_intellij" style="max-width: 100%;">
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/visualstudio.svg" alt="visualstudio" style="max-width: 100%;">
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" style="max-width: 100%;">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/jetbrains_phpstorm.svg" alt="jetbrains_phpstorm" style="max-width: 100%;">
+  <!--<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/jetbrains_phpstorm.svg" alt="jetbrains_phpstorm" style="max-width: 100%;"> -->
 </div>
 <br/>
 
